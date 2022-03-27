@@ -7,7 +7,6 @@ I'm Edman from Guatemala, and I do content on Design and Development. I really e
 * ⚙️ React
 * 💚 Vue
 * 💻 HTML, CSS, JS, TS
-Skills: VUE JS / REACT / JS / TS/ HTML / CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edman-cota&show_icons=true&theme=radical)
 
