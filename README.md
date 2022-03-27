@@ -1,9 +1,13 @@
-### Hi there 👋, Edman Cota
-#### Design and Development
+# Edman Cota
+#### Junior Front-End web developer
 ![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Edman from Guatemala, and I do content on Design and Development. I really enjoy learning languages and frameworks. I also enjoy wireframing, ui, ux, and design in general.
 
+## Skills and Experience
+* ⚙️ React
+* 💚 Vue
+* 💻 HTML, CSS, JS, TS
 Skills: VUE JS / REACT / JS / TS/ HTML / CSS
 
 - 🔭 I’m currently working on this page. 
