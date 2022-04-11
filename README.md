@@ -8,7 +8,7 @@ I'm Edman from Guatemala, and I do content on Design and Development. I really e
 * 💚 Vue
 * 💻 HTML, CSS, JS, TS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edman-cota&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edman-cota&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edman-cota&show_icons=true&theme=radical)
 
