@@ -1,5 +1,4 @@
-Hi 👋 My name is Edman
-======================
+ #👋 Hi {style="display: block; margin: 0 auto"}
 
 I'm a passionate Front-End developer
 ------------------------------------
