@@ -1,4 +1,4 @@
- #👋 Hi {style="display: block; margin: 0 auto"}
+ <h1 align="center">👋 Hi</h1>
 
 I'm a passionate Front-End developer
 ------------------------------------
