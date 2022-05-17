@@ -15,11 +15,13 @@ I'm Edman from Guatemala, and I do content on Design and Development. I really e
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-#### Socials
+#### SOCIALS
 
-<p align="left"> <a href="https://www.github.com/edman-cota" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/edman-cota-64764b223" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+<a href="https://www.linkedin.com/in/edman-cota-64764b223" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />Edman Cota</a>
+</p>
 
-### Badges
+#### BADGES
 
 <b>My GitHub Stats</b>
 
