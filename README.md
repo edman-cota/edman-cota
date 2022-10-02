@@ -1,6 +1,6 @@
  <h1 align="center">👋 Hi</h1>
 
-I'm a passionate Front-End developer
+I'm a passionate Full Stack Developer
 ------------------------------------
 
 I'm Edman from Guatemala, and I do content on Design and Development. I really enjoy learning languages and frameworks. I also enjoy wireframing, ui, ux, and design in general.
