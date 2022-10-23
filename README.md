@@ -1,5 +1,3 @@
- Full Stack developer and open-source enthusiast
-  <br/>
 
 #### TECHNOLOGIES I WORK WITH
 <!-- 
